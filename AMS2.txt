@@ -18,7 +18,7 @@ Fontana 1:30.45
 Jerez 1:30.45
 Donington_Park 1:30.45
 Nürburgring 1:30.45
-Watkins Glen 1:30.45
+Watkins_Glen 1:30.45
 Texas 1:30.45
 Guaporé 1:30.45
 long_Beach 1:30.45
